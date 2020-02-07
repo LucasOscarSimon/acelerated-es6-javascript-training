@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["console","log","person","greet"],"mappings":";;AAAA;;;;AAEAA,OAAO,CAACC,GAAR,CAAYC,iBAAOC,KAAP,EAAZ","sourcesContent":["import person from './test';\r\n\r\nconsole.log(person.greet());"],"file":"index.js"}

@@ -1,0 +1,5 @@
+
+Another way to build
+In the scripts section of the package.json file...
++ "build": "babel src -d lib",
+
